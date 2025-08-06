@@ -1,5 +1,5 @@
-# Hi, Welcome in my Data Analyst Portfolio,
+# Hi, Welcome to My Data Analyst Portfolio 👋  
 
-**I'm Vivek **  
-Aspiring Data Analyst with experience in Python, SQL, Tableau, Power BI, Looker Studio, Excel, Google Sheets, and Google Apps Script.  
-I specialize in automating workflows, analyzing data, and creating interactive dashboards to drive insights.
+**I'm Vivek** – an aspiring Data Analyst with hands-on experience in Python, SQL, Tableau, Power BI,
+Looker Studio, Excel, Google Sheets, and Google Apps Script.  
+I focus on automating workflows, analyzing complex datasets, and creating interactive dashboards that deliver actionable insights.
