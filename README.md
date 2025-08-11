@@ -11,32 +11,41 @@ I focus on automating workflows, analyzing complex datasets, and creating intera
 - **Spreadsheets:** Excel (Pivot Tables, Power Query), Google Sheets (Formulas, Automation)
 - **Other:** Data Cleaning, Dashboarding, Process Automation
 
-- 🚀 Projects
-🐍 Python
-Car Rental Platform
-Object-Oriented Python application for managing a car rental business. Includes vehicle inventory management, booking, and return tracking.
+## 🚀 Projects
 
-App Rating Prediction
-Machine learning model that predicts app ratings based on user reviews, size, category, and other features.
+### 🐍 Python
+**[Car Rental Platform](https://github.com/Vivek-12-1234/Python---Car-Rental-Platform)**  
+Object-Oriented Python application for managing a car rental business with vehicle inventory, bookings, and returns.
 
-Customer Churn Data Analysis
-Exploratory Data Analysis (EDA) and predictive modeling to identify factors contributing to customer churn.
+**[App Rating Prediction](https://github.com/Vivek-12-1234/App-Rating-Prediction---Python)**  
+Machine learning model to predict mobile app ratings based on reviews, app category, and other attributes.
 
-🛢 SQL
-Pizza Sales Analysis
-SQL-based sales analysis for a pizza store, covering revenue trends, top-selling items, and order patterns.
+**[Customer Churn Data Analysis](https://github.com/Vivek-12-1234/Customer-Churn-Data-Analysis)**  
+Exploratory data analysis and predictive modeling to identify customers likely to churn.
 
-📊 Tableau
-Sales Dashboard
-Interactive Tableau dashboard to visualize sales performance, regional trends, and top products.
+---
 
-🐍 + 🛢 Python + SQL
-E-commerce Data Analysis
-Data extraction and analysis using SQL, followed by Python-based visualization and insights.
+### 🛢 SQL
+**[Pizza Sales Analysis](https://github.com/Vivek-12-1234/Pizza-Sales--SQL)**  
+SQL analysis to track pizza shop sales trends, top sellers, and revenue patterns.
 
-🐍 + 📊 Python + Tableau
-Marketing Data Analysis (Capstone Project)
-End-to-end marketing dataset analysis combining Python for data cleaning & preprocessing with Tableau for dashboard creation.
+---
+
+### 📊 Tableau
+**[Sales Dashboard](https://github.com/Vivek-12-1234/Tableau---Sales-Dashboard-)**  
+Interactive Tableau dashboard visualizing sales performance, top products, and regional trends.
+
+---
+
+### 🐍 + 🛢 Python + SQL
+**[E-commerce Data Analysis](https://github.com/Vivek-12-1234/SQL-Python)**  
+Data extraction using SQL and Python-based EDA to uncover insights from e-commerce transactions.
+
+---
+
+### 🐍 + 📊 Python + Tableau
+**[Marketing Data Analysis \(Capstone Project\)](https://github.com/Vivek-12-1234/Capstone-end-project---marketing-data-analysis)**  
+End-to-end marketing campaign analysis using Python for data processing and Tableau for dashboard creation.
 
   
 
