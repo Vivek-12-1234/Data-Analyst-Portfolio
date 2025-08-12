@@ -47,6 +47,12 @@ Data extraction using SQL and Python-based EDA to uncover insights from e-commer
 **[Marketing Data Analysis \(Capstone Project\)](https://github.com/Vivek-12-1234/Capstone-end-project---marketing-data-analysis)**  
 End-to-end marketing campaign analysis using Python for data processing and Tableau for dashboard creation.
 
+---
+
+### 📊 Power BI  
+**[Uber Trip Data Analysis](https://github.com/Vivek-12-1234/Power-BI---Uber-Trip-Data-Analysis)**  
+Interactive Power BI dashboard analyzing Uber trip data to uncover booking trends, revenue insights, trip patterns, and location-based demand. Features dynamic filters, time-based analysis, and drill-through details for better operational decisions.
+
   
 
 
